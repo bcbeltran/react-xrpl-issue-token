@@ -1,3 +1,4 @@
+# react-xrpl-issue-token
 # Create a testnet cold wallet
 # Create a testnet hot wallet
 # Connect cold wallet and hot wallet with a trust line and create the FOO token
